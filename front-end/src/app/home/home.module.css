@@ -1,0 +1,31 @@
+/* home.module.css */
+
+.container {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .subtitle {
+    font-size: 1.25rem;
+    text-align: center;
+  }
+  
+  .searchRow {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  
+  .select,
+  .input,
+  .button {
+    margin: 0 0.5rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
